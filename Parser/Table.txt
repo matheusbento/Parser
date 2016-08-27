@@ -1,0 +1,6 @@
+NT;i;+;*;(;);$;
+E;E:TE';error;error;E:TE';synch;synch;
+E';error;E':TE';error;error;E':&;E':&;
+T;T:FT';synch;error;T:FT';synch;synch;
+T';error;T':&;T':*FT';error;T':&;T':&;
+F;F:i;synch;synch;F:(E);synch;synch;
